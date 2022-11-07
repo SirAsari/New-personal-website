@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    background-color: #fafafa;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(71, 71, 71);
+    margin: 0;
+    background-image:url(img/wave.JPG);
+    background-size: cover;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    background-color: #56d5eb;
+  }
+
+  .nav {
+    background-color: #8babe4;
+  }
+    
+  li {
+    float: right;
+  }
+  
+  .logo {
+    float: left;
+  }
+
+  .logo-text {
+    font-size: 21px;
+  }
+    
+  li a {
+    display: block;
+    color: #3a3a3a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 19px;
+  }
+
+  .content1 {
+    display: flex;
+    padding: 30px 48px 48px 48px;
+   }
+  
+  .muka {
+    max-width: 16%;
+    border-radius: 150px;
+  }
+
+  p.Atas {
+    font-size: 40px;
+    padding-left: 20px;
+    font-weight: bold;
+  }
+
+  p.isi {
+    padding-left: 20px;
+  }
+
+  .teks {
+    padding-top: 40px;
+    font-size: 26px;
+    font-weight:bolder;
+    text-align: center;
+  }
+  
+  .card-container {
+    padding-top: 35px;
+    padding-left: 60px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    display: flex;
+  }
+
+  .card1 {
+    padding-left: 32%;
+    background-color: blue;
+    padding-bottom: 15%;
+    background-image: url(img/web\ sekolah.JPG);
+    background-size: cover;
+    border-radius: 20px;
+  }
+
+  .card2 {
+    margin-left: 20px;
+    padding-left: 30%;
+    background-color: red;
+    background-image: url(img/Capture.JPG);
+    background-size: cover;
+    border-radius: 20px;
+  }
+
+  .card3 {
+    margin-left: 20px;
+    padding-left: 30%;
+    background-color: black;
+    background-image: url(img/web.JPG);
+    background-size: cover;
+    border-radius: 20px;
+  }
+
+  .link {
+    display: flex;
+    padding-left: 5%;
+  }
+
+  .link1 {
+    padding-left: 10%;
+    text-decoration: none;
+  }
+
+  .link2 {
+    padding-left: 30%;
+  }
+
+  .link3 {
+    padding-left: 25%;
+  }
+
+  .socialmedia {
+    display: flex;
+    margin-left: 25%;
+    margin-top: 4%;
+  }
+
+  .ig {
+    padding: 50px;
+    background-image: url(img/ig.png);
+    background-size: cover;
+  }
+  
+  .github {
+    padding: 50px;
+    margin-left: 16%;
+    background-image: url(img/Black-Github-Logo-PNG-Image-Background.png);
+    background-size: cover;
+  }
+
+  .whatsapp {
+    padding: 50px;
+    margin-left: 16%;
+    background-image: url(img/wa.png);
+    background-size: cover;
+  }
+
+  .linksocial {
+    display: flex;
+    margin-left: 27%;
+  }
+
+  .satu {
+    padding-top: 20px;
+  }
+
+  .dua {
+    padding-top: 20px;
+    margin-left: 20%;
+  }
+
+  .tiga {
+    padding-top: 20px;
+    margin-left: 20%;
+  }
+  
+
